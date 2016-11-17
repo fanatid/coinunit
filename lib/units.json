@@ -1,0 +1,24 @@
+[
+  {
+    "export": "bitcoin",
+    "name": "BitcoinUnit",
+    "powers": {
+      "satoshis": 1,
+      "bits": 2,
+      "BTC": 8
+    }
+  },
+  {
+    "export": "ethereum",
+    "name": "EthereumUnit",
+    "powers": {
+      "wei": 1,
+      "Kwei": 3,
+      "Mwei": 6,
+      "shannon": 9,
+      "szabo": 12,
+      "finney": 15,
+      "ETH": 18
+    }
+  }
+]
